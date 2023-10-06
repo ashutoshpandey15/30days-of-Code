@@ -1,0 +1,9 @@
+Object-Oriented Programming (OOP) is a programming paradigm that is based on the concept of "objects". An object is an instance of a class, which is a blueprint for creating objects. OOP is based on four main concepts:
+
+Encapsulation: This is the process of hiding the implementation details of an object from the outside world. This is achieved by making the data members of the object private and providing public methods to access and modify them.
+
+Inheritance: This is the process of creating a new class from an existing class. The new class inherits all the properties and methods of the existing class and can also add new properties and methods.
+
+Polymorphism: This is the ability of an object to take on many forms. In OOP, polymorphism is achieved through method overloading and method overriding.
+
+Abstraction: This is the process of creating a simplified representation of a complex system. In OOP, abstraction is achieved through abstract classes and interfaces.
