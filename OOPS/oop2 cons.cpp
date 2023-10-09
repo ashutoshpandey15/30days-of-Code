@@ -124,11 +124,74 @@ int main()
 //     hero1.print();
 
 //     hero2.print();
+ // //Hero tt;
+
+    // //object created statically
+    // Hero ramesh(10);
+    // //cout << "Address of ramesh " << &ramesh << endl;
+    // ramesh.print();
+
+    // //dynamically
+    // Hero *h =  new Hero(11);
+    // h->print();
+
+    // Hero temp(22, 'B');
+    // temp.print();
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+    /*
+    //static allocation
+    Hero a;
+    a.setHealth(80);
+    a.setLevel('B');
+    cout << "level is  " << a.level << endl;
+    cout << " health is " << a.getHealth() << endl;
+
+    //dynamicallly
+    Hero *b = new Hero;
+    b->setLevel('A');
+    b->setHealth(70);
+    cout << "level is  " << (*b).level << endl;
+    cout << " health is " << (*b).getHealth() << endl;
+
+
+    cout << "level is  " << b->level << endl;
+    cout << " health is " << b->getHealth() << endl;
+    */
     
 
+
+    // //creation of Object
+    // Hero ramesh;   
+    // cout << "Size of Ramesh is " << sizeof(ramesh) << endl;
+
+    // cout << "Ramesh health is " << ramesh.getHealth() << endl;
+    // //use setter
+    // ramesh.setHealth(70);
+    // ramesh.level = 'A';
+
+
+    // cout << "health is: " << ramesh.getHealth() << endl; 
+    // cout << "Level is: " << ramesh.level << endl; 
+
+    // //cout << "size : " << sizeof(h1) << endl;
 
 
     return 0;
 }
+
+
+    
+
